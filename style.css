@@ -1,0 +1,18 @@
+* {
+    background-color: rgb(179, 179, 255);
+}
+
+.heading {
+    text-align: center;
+    font-size: 50px;
+}
+
+.list {
+    font-size: 25px;
+}
+
+.heading,
+.list {
+    font-family: 'Helvetica', 'Verdana', sans-serif;
+    color: aliceblue;
+}
